@@ -1,0 +1,5 @@
+# OutbreakPt2
+Project game in OOP2
+
+![image alt](https://github.com/toniesc-web/OutbreakPt2/blob/d773033d5076fa99058b59adc68b64f4fbff0c7f/Media%20(3).jpg)
+![image alt](https://github.com/toniesc-web/OutbreakPt2/blob/d353402c0c1927695be78d1505d854a4d6188860/Media%20(4).jpg)
